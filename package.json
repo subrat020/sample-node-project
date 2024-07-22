@@ -10,7 +10,16 @@
   "author": "Adem Cemil YALCIN",
   "license": "ISC",
   "dependencies": {
-    "express":"latest",
-    "ejs":"latest"
-  }
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acemilyalcin/sample-node-project.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/acemilyalcin/sample-node-project/issues"
+  },
+  "homepage": "https://github.com/acemilyalcin/sample-node-project#readme"
 }
